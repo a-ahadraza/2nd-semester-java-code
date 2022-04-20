@@ -1,3 +1,12 @@
+/*
+Create a class for Person, apply proper encapsulation to the members of the class. Name, FatherName, CNIC, Nationality, City should be included as the members of the class. For each data member, there should be a proper getter setter method available. Moreover, there should be a display function which will show all the information about the Person when called.
+Inherit two classes from the Person class that you have created in the last question. One should be Student and one should be Employee.
+
+Student should contain more data members such as Student ID, Qualification Level, Current Program. Employee should have more data members such as Employee ID, Designation, and Department. All the data members should have getter setter methods.
+Apply polymorphism for the inherited classes on the display function. The Student’s display function should show all the relevant information about person and for the student. Similar for the Employee.
+Provide a Main Function for creating the objects. Create one object each for Person, Student and Employee, Assign the values in the respective objects and display the contents for each class as per the case study.
+
+*/
 package com.mycompany.java_first_case_study;
 import java.util.Scanner;
 public class Java_first_case_study 
